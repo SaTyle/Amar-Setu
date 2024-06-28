@@ -1,3 +1,9 @@
+
+
+!backend/
+!backend/**
+
+
 # Logs
 logs
 *.log
